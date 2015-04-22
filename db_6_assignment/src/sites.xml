@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Sites>
+    <Site id="7" latitude="80.5" longitude="50.97" name="site name">
+        <Tower height="150" id="7" name="tower name" slides="50">
+            <Equipment brand="tetris" description="this is the equipment description" id="7" name="equipment name" price="25.35"/>
+            <Equipment brand="equip brand 2" description="this is the equipment two description" id="8" name="equipment name 2" price="37.35"/>
+        </Tower>
+        <Tower height="77" id="9" name="tower 2 name" slides="57">
+            <Equipment brand="equip brand 3" description="this is the equipment three description" id="9" name="equipment name 3" price="47.35"/>
+        </Tower>
+    </Site>
+    <Site id="8" latitude="60.5" longitude="10.97" name="site 2 name">
+        <Tower height="97" id="8" name="tower 3 name" slides="16"/>
+    </Site>
+</Sites>
